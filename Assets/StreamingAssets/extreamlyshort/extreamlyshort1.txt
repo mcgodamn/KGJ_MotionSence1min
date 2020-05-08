@@ -1,0 +1,4 @@
+pause ring
+interval 你朋友眼睛還沒閉，你就打了過來，他非常生氣，氣到跑去教室跟教授比詠春拳
+wait 10
+end

@@ -1,0 +1,21 @@
+interval 某天我在電腦前看著影片耍廢
+wait 3
+show yt_bg
+close interval
+play video
+wait 4
+phase 2 欸欸
+wait DIA_STEP
+phase 2 跟你講一件很重要的事
+wait DIA_STEP
+phase 2 我已經好幾天沒睡覺了
+wait DIA_STEP
+phase 2 都在讀等下要考的期末考
+wait DIA_STEP
+phase 2 幹我要掛了
+wait DIA_STEP
+phase 2 我真的要不行了，我好想睡一下下
+wait DIA_STEP
+phase 2 你可以一分鐘後打賴叫我起來嗎
+wait DIA_STEP
+option 2 好啊 start_ok 我才不要雷 start_no

@@ -1,0 +1,8 @@
+wait DIA_STEP
+phase 2 幹...我真的會掛調
+wait 3
+close line_bg
+wait 1
+interval 你的朋友因為睡眠不足，爆肝在考場上，最後還是被當了
+wait 10
+end

@@ -1,0 +1,4 @@
+pause ring
+interval 你隔了太久才打過來，結果你朋友被擋到試場門外，他現在在你背後，他很氣
+wait 10
+end

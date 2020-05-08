@@ -1,0 +1,4 @@
+pause ring
+interval 還差了幾秒，但剛好讓你朋友能準備起來，最後他準時到達考場，真是可喜可賀
+wait 10
+end

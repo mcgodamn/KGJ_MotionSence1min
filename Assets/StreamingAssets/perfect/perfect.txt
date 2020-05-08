@@ -1,0 +1,1 @@
+random 2 50 perfect/perfect1 50 perfect/perfect2

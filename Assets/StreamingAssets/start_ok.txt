@@ -1,0 +1,9 @@
+wait DIA_STEP
+phase 2 幹我愛你
+wait DIA_STEP
+phase 2 讓我睡一分鐘就好
+wait DIA_STEP
+phase 2 體感一分鐘就好了，不用看錶沒關係
+wait DIA_STEP
+phase 2 那我開始睡嘍
+startcounting

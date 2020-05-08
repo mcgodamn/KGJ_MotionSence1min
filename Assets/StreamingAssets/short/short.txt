@@ -1,0 +1,4 @@
+pause ring
+interval 你太快叫醒你朋友了，他現在處於一種有睡跟沒睡的渾沌狀態，稱為薛丁格的睡眠
+wait 10
+end
